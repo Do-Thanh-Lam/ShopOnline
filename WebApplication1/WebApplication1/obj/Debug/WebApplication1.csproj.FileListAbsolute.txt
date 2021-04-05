@@ -77,3 +77,7 @@ D:\Practice\LT_Web\BTL\WebApplication1\WebApplication1\obj\Debug\WebApplication1
 D:\Practice\LT_Web\BTL\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
 D:\Practice\LT_Web\BTL\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
 D:\Practice\LT_Web\BTL\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\Practice\LT_Web\BTL\WebApplication1\WebApplication1\bin\PagedList.dll
+D:\Practice\LT_Web\BTL\WebApplication1\WebApplication1\bin\PagedList.Mvc.dll
+D:\Practice\LT_Web\BTL\WebApplication1\WebApplication1\bin\PagedList.xml
+D:\Practice\LT_Web\BTL\WebApplication1\WebApplication1\bin\PagedList.Mvc.xml
